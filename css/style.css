@@ -1,0 +1,28 @@
+.box {
+  height: 400px;
+  background-color: #0bdeba;
+}
+
+@media (max-width: 1400px) {
+  .box {
+    background-color: #fc776a;
+  }
+}
+
+@media (max-width: 1200px) {
+  .box {
+    background-color: #9d18f5;
+  }
+}
+
+@media (max-width: 992px) {
+  .box {
+    background-color: #398f81;
+  }
+}
+
+@media (max-width: 768px) {
+  .box {
+    background-color: #f5c832;
+  }
+}
